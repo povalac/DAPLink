@@ -306,6 +306,10 @@ projects:
         - *module_if
         - *module_hic_k22f
         - records/board/kw38errd.yaml
+    k22f_usbkw38_if:
+        - *module_if
+        - *module_hic_k22f
+        - records/board/usbkw38.yaml
     k20dx_ep_agora_if:
         - *module_if
         - *module_hic_k20dx
